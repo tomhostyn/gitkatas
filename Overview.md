@@ -1,11 +1,11 @@
 # Overview of Git Katas
 
 
-## [basic-staging](basic-staging/README.md)
-interacting with the stage (index).
-
 ## [basic-commits](basic-commits/README.md)
 Very basic creation of commits.
+
+## [basic-staging](basic-staging/README.md)
+interacting with the stage (index).
 
 ## [basic-branching](basic-branching/README.md)
 The first stride into branching.
