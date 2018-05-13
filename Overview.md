@@ -1,9 +1,6 @@
 # Overview of Git Katas
 
 
-## [Bad-commit](bad-commit/README.md)
-Cleaning up a bit.
-
 ## [basic-commits](basic-commits/README.md)
 Very basic creation of commits.
 
@@ -39,6 +36,9 @@ A merge confligt with actual code.
 
 ## [rebase-branch](rebase-branch/README.md)
 Using rebase as an alternative to merging.
+
+## [Bad-commit](bad-commit/README.md)
+Cleaning up a bit.
 
 ## [pre-push](pre-push/README.md)
 A quick exercise in using Git hooks.
